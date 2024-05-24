@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<users>
+    <user>
+        <username>admin</username>
+        <password>admin</password>
+        <email>admin@gmail.com</email>
+        <role>admin</role>
+    </user>
+    <user>
+        <username>Rose Anne </username>
+        <password>password</password>
+        <email>uranzaroseanne@gmail.com</email>
+        <reset_code>8560</reset_code>
+    
+    
+    
+    <booking><id>4</id><clientName>Rose Anne </clientName><packageName>Package 2</packageName><eventDate>2024-05-25</eventDate><startTime>08:00</startTime><endTime>22:42</endTime><motif>Birthday </motif><venue>Luxor</venue><address>Pangi, Gasan, Marinduque</address><phoneNumber>098756543</phoneNumber><status>Accept</status><remarks>N/A</remarks></booking><booking><id>5</id><clientName>Rose Anne </clientName><packageName>Package 2</packageName><eventDate>0025-02-22</eventDate><startTime>08:00</startTime><endTime>17:00</endTime><motif>Birthday Party</motif><venue>Covered court</venue><address>Brgy. Uno Buenavista Marinduque</address><phoneNumber>09123456789</phoneNumber><status>Pending</status><remarks>N/A</remarks></booking></user>
+    <package>
+        <id>1</id>
+        <name>Package 1</name>
+        <description>Package 1 offers an immersive experience of light and sound, perfect for enhancing any event or gathering, priced at 8,000 light.</description>
+        <image>pakage 1.jpg</image>
+        </package><package>
+        <id>2</id>
+        <name>Package 2</name>
+        <description>Package 1 offers an immersive experience of light and sound, perfect for enhancing any event or gathering, priced at 10,000 light.</description>
+        <image>package.jpg</image>
+        </package>
+</users>
